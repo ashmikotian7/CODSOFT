@@ -1,0 +1,3 @@
+anki,1,A+
+Raju,2,B
+sanju,3,A

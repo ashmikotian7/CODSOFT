@@ -1,0 +1,4 @@
+sinchu,45896723,sinchu@gmail.com
+apple,1593572486,apple@gmail.com
+chiku,1587423695,chiku@gmail.com
+monky,1478523695,monky@gmail.com
